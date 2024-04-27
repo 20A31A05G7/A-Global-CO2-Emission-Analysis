@@ -16,8 +16,14 @@ ROLL NUMBER: 20A31A05G7
 
 IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
 
-DASHBOARD LINK: 
+DASHBOARD 1 LINK: 
 https://public.tableau.com/app/profile/dora.eswar/viz/CO2EmissionsDashboard_17141557807330/Dashboard1
+
+DASHBOARD 2 LINK: 
+https://public.tableau.com/app/profile/dora.eswar/viz/CO2EmissionsDashboard_17141557807330/Dashboard2
+
+DASHBOARD 3 LINK: 
+https://public.tableau.com/app/profile/dora.eswar/viz/CO2EmissionsDashboard_17141557807330/Dashboard3
 
 STORY LINK:
 https://public.tableau.com/app/profile/dora.eswar/viz/CO2Emissionsstory_17141562410720/CO2EmissionStory
